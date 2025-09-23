@@ -86,6 +86,12 @@ ___
 | Xiaomi Redmi Note 9S| xiaomi-miatoll          |
 
 ___
+### SM7150 Moorea/sdmmagpie
+|Device Name          | CodeName                |
+|---------------------|-------------------------|
+| QTI QRD730          | qcom-sdmmagpie          |
+
+___
 ### SM8350 Lahaina/lahaina
 |Device Name          | CodeName                |
 |---------------------|-------------------------|
