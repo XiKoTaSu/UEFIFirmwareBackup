@@ -90,6 +90,7 @@ ___
 |Device Name          | CodeName                |
 |---------------------|-------------------------|
 | QTI QRD730          | qcom-sdmmagpie          |
+| Xiaomi 9T/RM K20    | xiaomi-davinci          |
 
 ___
 ### SM8350 Lahaina/lahaina
