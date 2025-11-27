@@ -30,10 +30,10 @@ ___
 | Xiaomi Note 8       | xiaomi-ginkgo           |
 
 ___
-### SDM845 Hoya
+### SDM845 Napali
 |Device Name          | CodeName                |
 |---------------------|-------------------------|
-| QTI Reference Desgin| qcom-hoya               |
+| QTI Reference Desgin| qcom-napali             |
 | Xiaomi Mix2s        | xiaomi-polaris          |
 
 ___
